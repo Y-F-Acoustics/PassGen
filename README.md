@@ -12,8 +12,10 @@ Random Password Generator written in C/C++.
 - 整数は全て符号無し8bitで定義した省メモリ設計
 - エンターキーで終了
 
-# 今後の開発予定
+## v1
 - OpenMP + uint_fast_8tによる高速化
+
+# 今後の開発予定
 - C++への移植
 - random_deviceを用いた乱数生成による，安全性を指向した設計
 
