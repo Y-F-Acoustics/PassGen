@@ -12,7 +12,7 @@ Random Password Generator written in C/C++.
 - 整数は全て符号無し8bitで定義した省メモリ設計
 - エンターキーで終了
 
-## v1
+## v2
 - OpenMP + uint_fast_8tによる高速化
 
 # 今後の開発予定
